@@ -1,4 +1,5 @@
 # Groupe-8
 Initiation à Github
 SOFONNOU Emmanuel
-SANNI. Symbole.
+SANNI Symbole
+MOUTAÏROU Imdad
